@@ -1,0 +1,24 @@
+{
+  "name": "lab_rest_gdr",
+  "version": "1.0.0",
+  "description": "A simple exercise to make a gdr with CRUD function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dannolo/LABREST_GDR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dannolo/LABREST_GDR/issues"
+  },
+  "homepage": "https://github.com/Dannolo/LABREST_GDR#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  }
+}
